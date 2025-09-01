@@ -1,0 +1,62 @@
+[
+  {
+    "title": "1984",
+    "summary": "O distopie despre un stat totalitar care controlează viața privată și adevărul prin supraveghere și propagandă. Winston Smith încearcă să se elibereze de sub regim, căutând adevărul și libertatea.",
+    "themes": ["control social", "libertate", "manipulare"]
+  },
+  {
+    "title": "The Hobbit",
+    "summary": "Bilbo pornește într-o aventură alături de pitici pentru a recupera comoara de la dragonul Smaug și își descoperă curajul și ingeniozitatea.",
+    "themes": ["prietenie", "aventură", "maturizare"]
+  },
+  {
+    "title": "Dune",
+    "summary": "Arrakis devine centrul unei lupte pentru resursa spice. Paul Atreides își acceptă destinul politic și mistic printre intrigi și profeții.",
+    "themes": ["ecologie", "putere", "aventură"]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "summary": "O companie pornește să distrugă Inelul Unic pentru a învinge răul care amenință Pământul de Mijloc.",
+    "themes": ["sacrificiu", "prietenie", "corupția puterii"]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "summary": "Un băiat descoperă că este vrăjitor și intră într-o lume a magiei, prieteniei și pericolelor ascunse.",
+    "themes": ["prietenie", "curaj", "identitate"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "O poveste despre justiție în sudul SUA, văzută prin ochii unei fete care învață empatie și moralitate.",
+    "themes": ["moralitate", "empatie", "curaj civil"]
+  },
+  {
+    "title": "The Alchemist",
+    "summary": "Un păstor pornește într-o călătorie pentru a-și urma legenda personală și a descoperi sensul propriei vieți.",
+    "themes": ["destin", "auto-descoperire", "sens"]
+  },
+  {
+    "title": "The Little Prince",
+    "summary": "Întâlnirea dintre un aviator și un prinț venit de pe altă planetă dezvăluie adevăruri simple despre oameni și prietenie.",
+    "themes": ["prietenie", "inocență", "esențialul invizibil"]
+  },
+  {
+    "title": "The Name of the Wind",
+    "summary": "Kvothe își spune viața: copil minune, student la Universitate, muzician și arcanist în căutarea adevărului.",
+    "themes": ["mit", "cunoaștere", "identitate"]
+  },
+  {
+    "title": "The Book Thief",
+    "summary": "O fată în Germania nazistă găsește refugiu în cărți și vorbe, în mijlocul ororilor războiului.",
+    "themes": ["război", "umanitate", "puterea cuvintelor"]
+  },
+  {
+    "title": "The Kite Runner",
+    "summary": "O prietenie încercată de rușine și răscumpărare pe fundalul Afganistanului, din copilărie până la maturitate.",
+    "themes": ["vină", "iertare", "loialitate"]
+  },
+  {
+    "title": "Brave New World",
+    "summary": "O societate aparent perfectă, menținută prin condiționare și droguri, ascunde lipsa libertății și superficialitatea fericirii.",
+    "themes": ["fericire artificială", "libertate", "individualitate"]
+  }
+]
